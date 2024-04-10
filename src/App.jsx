@@ -18,7 +18,8 @@ function App() {
   return (
     <>
     <Navbar></Navbar>
-    <Home></Home>
+    {/* home component */}
+    <Home></Home> 
     <About></About>
     <Menu></Menu>
     <Product></Product>
